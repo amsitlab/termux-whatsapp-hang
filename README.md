@@ -17,7 +17,11 @@ Copy hex decimal (unicode) text to android clipboard
 	If you installing Termux from Play Store, then you must install Termux:Api from play store.
 	If you installing Termux from F-Droid, then you must installing Termux:Api from F-Droid.
 - *termux-api* package must be installed on your termux environment.
-	type ```sh apt install termux-api``` to install.
+	type
+	```sh
+	apt install termux-api
+	```
+	to install.
 
 ### Notice
 This tools will installing dependency for you, if these fail you must be install manualy for yourself.
