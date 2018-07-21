@@ -11,10 +11,10 @@
 DOC=$(cat <<DOCUMENT
 # Author   : Amsit S<@dezavue on tele>
 # Team 	   : BlackHole Security
-# Note     : tools sampah ini di buat untuk bacotan si Qiuby Zhukhi 
-#            (sebenernya gua males)
+# Version  : 1.0 (unfaedah)
 
 
+NOW, YOU CAN PASTE TO WHATSAPP TEXTBOX
 SILAHKAN PASTE KE WHATSAPP!!
 DOCUMENT
 )

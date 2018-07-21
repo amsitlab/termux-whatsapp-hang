@@ -5,10 +5,11 @@ Copy hex decimal (unicode) text to android clipboard
 
 ### Usage 
 - Go to directory where you installing this tools.
-- call by typing:
+- Call by typing:
 	```sh
 	./termux-whatsapp-hang
 	```
+- Then copy to Whatsapp text box.
 
 ### Requirements
 - Termux:Api must be installed.
