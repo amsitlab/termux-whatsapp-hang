@@ -91,6 +91,9 @@ if test -z "$IS_INSTALLED"; then
 	sleep 5
 
 	download
+
+	printf "Run again.. if you has installing dependencies"
+
 else 
 	printf "$DOC"
 	echo "$UNICODE" | termux-clipboard-set
