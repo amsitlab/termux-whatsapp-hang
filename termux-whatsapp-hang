@@ -31,6 +31,8 @@ Klo ngeyel... ya monggo sentuh aja..."
 
 
 download(){
+	test ! -d ~/storage && \
+		termux-setup-storage
 	printf "[NOTICE] Termux and Termux:Api must be signed with same keystore\n"
 	printf "Choose number\n"
 	printf "Where you installing Termux:\n"
